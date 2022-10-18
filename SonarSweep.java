@@ -1,3 +1,5 @@
+/*Solution to 2021, Day 1: Sonar Sweep*/
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
